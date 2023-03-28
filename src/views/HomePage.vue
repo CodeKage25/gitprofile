@@ -111,6 +111,7 @@ export default {
   height: 35vw;
   width: 100%;
   margin-left: 10rem;
+  border-radius: 60px;
 }
 
 .img-bg {
