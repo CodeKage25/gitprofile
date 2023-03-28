@@ -9,7 +9,7 @@
         </div>
 
         <div class="img-and-bg-container">
-          <img src="../assets/404.svg" alt="404" class="user-img" />
+          <img :src="this.displayImage" alt="User Image" class="user-img" />
           <div class="img-bg"></div>
         </div>
       </div>
